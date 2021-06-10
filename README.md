@@ -1,0 +1,1 @@
+Today is June 10th, 2021 and I've learned the introduction to Git/Github. I've also accomplished learning how to use the terminal to explore different files and folders on my computer. I followed along with an HTML/CSS brief introduction and have started a small project working on my future portfolio. 
